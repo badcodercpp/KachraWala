@@ -60,3 +60,9 @@ export const PureFunctionalUIScreen = {
   name: "PureFunctionalUI",
   componentDest: "components/Dummy/dummy.component.js"
 };
+
+
+export const MyCheckBoxScreen = {
+  name: "MyCheckBox",
+  componentDest: "components/DummyPrank/dummyprank.component.js"
+};
